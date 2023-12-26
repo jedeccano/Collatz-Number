@@ -1,0 +1,1 @@
+This is the Chapter 3 Practice Project(Functions) from the Book Automate the Boring Stuff with Python 2nd Edition by Al Sweigart. I've Used Recursion to solve this specific problem. Your Feedback and responses would be much appreciated. 
